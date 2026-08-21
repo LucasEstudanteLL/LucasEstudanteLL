@@ -1,43 +1,43 @@
 <img width="480" height="269" alt="image" src="https://github.com/user-attachments/assets/2c37b344-32d9-4571-a5a1-3d098de3efd6" />
 
 
-👋 Olá! Eu sou Lucas
+👋 Hello! I'm Lucas.
 
-🎓 Estudante do 3º ano do Ensino Médio — 2026
-💻 Interessado em tecnologia, programação e desenvolvimento de projetos.
-
-🚀 Sobre mim
-
-Tenho 17 anos e estou atualmente cursando o 3º ano do Ensino Médio.
-Gosto de aprender coisas novas, desenvolver projetos e explorar diferentes áreas da tecnologia.
-
-Estou usando este espaço para compartilhar meus projetos, experiências e minha evolução durante minha jornada de aprendizado.
-
-🌐 Projeto da Feira de Conhecimentos.
-🌐 Alguns jogos já desenvolvidos no Roblox Studio.
+🎓 3rd-year High School Student — 2026
+💻 Interested in technology, programming, and project development.
 
 
-Fire or hire (Projeto para a feira do conhecimento).
+🚀 About me
+
+I am 17 years old and currently in my final year of high school.
+I enjoy learning new things, developing projects, and exploring different areas of technology.
+
+I am using this space to share my projects, experiences, and progress throughout my learning journey.
+
+🌐 Science Fair project.
+🌐 Some games developed in Roblox Studio.
+
+Fire or Hire (Project for the knowledge fair).
 
 
 🔗 https://fireorhide.github.io/fireorhire/
 
-🛠️ Tecnologias
+🛠️ Technologies
 
-Algumas tecnologias que estudo e utilizo nos meus projetos:
+Some technologies I study and use in my projects:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,cpp,cs,lua,git,github" />
 </p>
 
-📚 Atualmente
-🎓 3º ano do Ensino Médio — 2026
-💻 Estudando programação
-🚀 Desenvolvendo projetos pessoais e escolares
-📖 Sempre aprendendo algo novo
-📱 Redes sociais
+📚 Currently
+🎓 3rd year of High School — 2026
+💻 Studying programming
+🚀 Developing personal and school projects
+📖 Always learning something new
+📱 Social media
 
-Você pode me encontrar por aqui:
+You can find me here:
 
 <p align="left"> 📸 <b>Instagram:</b> <a href="https://instagram.com/pclucas_">@pclucas_</a> <br> ▶️ <b>YouTube:</b> <a href="https://youtube.com/@LucasBiblical">@LucasBiblical</a> <br> 🎵 <b>TikTok:</b> <a href="https://tiktok.com/@pclucas_">@pclucas_</a> </p>
 
@@ -52,7 +52,7 @@ Você pode me encontrar por aqui:
 
 
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Thanks for visiting my profile!
 
 "You Vs You."
 
