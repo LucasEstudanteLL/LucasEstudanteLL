@@ -41,7 +41,7 @@ You can find me here:
 
 <p align="left"> 📸 <b>Instagram:</b> <a href="https://instagram.com/pclucas_">@pclucas_</a> <br> ▶️ <b>YouTube:</b> <a href="https://youtube.com/@LucasBiblical">@LucasBiblical</a> <br> 🎵 <b>TikTok:</b> <a href="https://tiktok.com/@pclucas_">@pclucas_</a> </p>
 
-## 🎮 Games & Platforms
+## 🎮 Games
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/290838ec-1fbc-456d-b601-0350b10c28bb" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/685ce250-e27e-4a0a-955e-9cb0bebdc85d" />
