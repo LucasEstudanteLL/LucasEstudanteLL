@@ -1,11 +1,3 @@
-<p align="left">
-  <img src="[https://skillicons.dev/icons?i=js,html,css,cpp,cs,lua,git,github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5VYx0dLELSy3K5JmRRYWsfABXw7Tz49nBRCPLAzKsA&s=10)" />
-</p>
-
-
-
-
-
 👋 Olá! Eu sou Lucas
 
 🎓 Estudante do 3º ano do Ensino Médio — 2026
@@ -45,10 +37,7 @@ Algumas tecnologias que estudo e utilizo nos meus projetos:
 
 Você pode me encontrar por aqui:
 
-Instagram: @pclucas_
-YouTube: @LucasBiblical
-TikTok: @pclucas_
-
+<p align="left"> 📸 <b>Instagram:</b> <a href="https://instagram.com/pclucas_">@pclucas_</a> <br> ▶️ <b>YouTube:</b> <a href="https://youtube.com/@LucasBiblical">@LucasBiblical</a> <br> 🎵 <b>TikTok:</b> <a href="https://tiktok.com/@pclucas_">@pclucas_</a> </p>
 
 ⭐ Obrigado por visitar meu perfil!
 
